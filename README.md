@@ -52,9 +52,10 @@ independence rather than inventing it, and it is why the harvest took one site f
 
 **English in the list.** Some candidates are plain English that the hunspell validator let
 through (FOR, SAID, WERE, YOU), and Swahili Wikipedia, publishers and the Archive all quote
-English, so about 80 of the shipped words are ordinary English words from the top of the English
-list (SAID, VIDEO, WORLD, MUSIC, SCHOOL). Some are also Swahili (WAKE, LAKE, PALE); most are not.
-That is a fault in the candidate list, and small next to the list's 16,691 words.
+English. Measured: 274 of the 16,691 shipped words (1.6%) are also English candidates, and 82 are
+in the top 3,000 of the English list. A few of those are Swahili too (WAKE, LAKE, PALE); by eye
+about 60 are plain English (SAID, VIDEO, WORLD, MUSIC, SCHOOL). That is a fault in the candidate
+list, and small next to the list's size.
 
 **Where the drop list points.** The first build read 89 Archive texts and kept 50.8%; this one
 read 216 (45 of them legible) and keeps 57.6%, reusing everything else from the record. 5,876 of
