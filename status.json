@@ -2,7 +2,7 @@
   "language": "sw",
   "built": "2026-09-23",
   "candidates": 29002,
-  "shipped": 14724,
+  "shipped": 16546,
   "ships": "pending",
   "decided": null,
   "why": null,
@@ -29,51 +29,51 @@
     {
       "families": 3,
       "added": "ebible",
-      "kept": 11191,
-      "share": 0.38587,
-      "gained": 11191
+      "kept": 13304,
+      "share": 0.458727,
+      "gained": 13304
     },
     {
       "families": 4,
       "added": "co.ke",
-      "kept": 13043,
-      "share": 0.449728,
-      "gained": 1852
+      "kept": 15157,
+      "share": 0.522619,
+      "gained": 1853
     },
     {
       "families": 5,
       "added": "leipzig",
-      "kept": 13971,
-      "share": 0.481725,
-      "gained": 928
+      "kept": 15955,
+      "share": 0.550134,
+      "gained": 798
     },
     {
       "families": 6,
       "added": "tatoeba",
-      "kept": 14443,
-      "share": 0.498,
-      "gained": 472
+      "kept": 16303,
+      "share": 0.562134,
+      "gained": 348
     },
     {
       "families": 7,
       "added": "co.tz",
-      "kept": 14707,
-      "share": 0.507103,
-      "gained": 264
+      "kept": 16531,
+      "share": 0.569995,
+      "gained": 228
     },
     {
       "families": 8,
       "added": "bongo5.com",
-      "kept": 14719,
-      "share": 0.507517,
-      "gained": 12
+      "kept": 16540,
+      "share": 0.570305,
+      "gained": 9
     },
     {
       "families": 9,
       "added": "voaswahili.com",
-      "kept": 14724,
-      "share": 0.507689,
-      "gained": 5
+      "kept": 16546,
+      "share": 0.570512,
+      "gained": 6
     }
   ]
 }

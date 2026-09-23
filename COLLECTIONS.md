@@ -12,15 +12,15 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `wiki:sw` | 14,027,130 | Swahili Wikipedia — modern encyclopedic prose, and the list that proposed the candidates | [swwiki.xml.bz2](https://dumps.wikimedia.org/swwiki/latest/swwiki-latest-pages-articles.xml.bz2) |
-| `ia` | 989,673 | Internet Archive Swahili books — literature, and the register a newspaper never reaches | [archive-sw](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Swahili%22+OR+language%3A%22swa%22+OR+language%3A%22swh%22%29) |
-| `ebible:swhulb` | 516,961 | eBible swhulb — a family nothing else here belongs to | [swhulb_vpl.txt](https://ebible.org/Scriptures/swhulb_vpl.zip) |
-| `ebible:swhonen` | 511,240 | eBible swhonen — a family nothing else here belongs to | [swhonen_vpl.txt](https://ebible.org/Scriptures/swhonen_vpl.zip) |
+| `wiki:sw` | 14,027,130 |  | — |
+| `ia` | 2,397,126 | Internet Archive Swahili books — literature, and the register a newspaper never reaches | [archive-sw](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Swahili%22+OR+language%3A%22swa%22+OR+language%3A%22swh%22%29) |
+| `ebible:swhulb` | 516,961 |  | — |
+| `ebible:swhonen` | 511,240 |  | — |
 | `web:co.ke` | 136,797 |  | fetched from `co.ke`, recorded in `searched.tsv` |
-| `lz:swa_news_2020_30K` | 33,511 | Leipzig swa_news_2020_30K — modern news, cited by the page each sentence came from | [swa_news_2020_30K](https://downloads.wortschatz-leipzig.de/corpora/swa_news_2020_30K.tar.gz) |
-| `tat` | 29,245 | Tatoeba Swahili — contemporary and conversational, and small | [swh_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/swh/swh_sentences.tsv.bz2) |
+| `lz:swa_news_2020_30K` | 33,511 |  | — |
+| `tat` | 29,245 |  | — |
 | `web:co.tz` | 26,627 |  | fetched from `co.tz`, recorded in `searched.tsv` |
-| `lz:swa_newscrawl_2011_10K` | 15,254 | Leipzig swa_newscrawl_2011_10K — modern news, cited by the page each sentence came from | [swa_newscrawl_2011_10K](https://downloads.wortschatz-leipzig.de/corpora/swa_newscrawl_2011_10K.tar.gz) |
+| `lz:swa_newscrawl_2011_10K` | 15,254 |  | — |
 | `web:bongo5.com` | 11,322 |  | fetched from `bongo5.com`, recorded in `searched.tsv` |
 | `web:voaswahili.com` | 406 |  | fetched from `voaswahili.com`, recorded in `searched.tsv` |
 
