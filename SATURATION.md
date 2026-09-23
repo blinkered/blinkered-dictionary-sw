@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 29,002. Shipped: 16,546.
+Candidates: 29,002. Shipped: 16,691.
 
 Of 9 families, **8 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -19,12 +19,12 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
-| 3 | `ebible` | 13,304 | 45.9% | +13,304 |
-| 4 | `co.ke` | 15,157 | 52.3% | +1,853 |
-| 5 | `leipzig` | 15,955 | 55.0% | +798 |
-| 6 | `tatoeba` | 16,303 | 56.2% | +348 |
-| 7 | `co.tz` | 16,531 | 57.0% | +228 |
-| 8 | `bongo5.com` | 16,540 | 57.0% | +9 |
-| 9 | `voaswahili.com` | 16,546 | 57.1% | +6 |
+| 3 | `ebible` | 13,431 | 46.3% | +13,431 |
+| 4 | `co.ke` | 15,328 | 52.9% | +1,897 |
+| 5 | `leipzig` | 16,106 | 55.5% | +778 |
+| 6 | `tatoeba` | 16,456 | 56.7% | +350 |
+| 7 | `co.tz` | 16,676 | 57.5% | +220 |
+| 8 | `bongo5.com` | 16,685 | 57.5% | +9 |
+| 9 | `voaswahili.com` | 16,691 | 57.6% | +6 |
 
-**Diminishing returns from family 6** (`tatoeba`, +348), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 6** (`tatoeba`, +350), where a family first added less than a twentieth of what the best one did.

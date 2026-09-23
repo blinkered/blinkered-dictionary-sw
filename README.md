@@ -5,7 +5,7 @@ The Swahili word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Swahili.
 
-**16,546 of 29,002 candidates proved, 57.1%**, across 9 independent
+**16,691 of 29,002 candidates proved, 57.6%**, across 9 independent
 families, 8 of which a stranger could check by fetching.
 
 ## What is in this repository
@@ -54,16 +54,15 @@ independence rather than inventing it, and it is why the harvest took one site f
 through (FOR, SAID, WERE, YOU), and Swahili Wikipedia, publishers and the Archive all quote
 English, so about 80 of the shipped words are ordinary English words from the top of the English
 list (SAID, VIDEO, WORLD, MUSIC, SCHOOL). Some are also Swahili (WAKE, LAKE, PALE); most are not.
-That is a fault in the candidate list, and small next to the list's 16,546 words.
+That is a fault in the candidate list, and small next to the list's 16,691 words.
 
-**Where the drop list points.** The first build read 89 Archive texts and kept 50.8%; this one read
-179 (37 of them legible) and keeps 57.1%, reusing everything else from the record. 5,625 of the
-7,097 words still one family short are attested by the Archive and Wikipedia, and 867 by the
-Bibles and Wikipedia. Swahili's missing register is
-modern prose from someone other than Wikipedia: more publishers, and a larger news corpus than
-Leipzig has.
+**Where the drop list points.** The first build read 89 Archive texts and kept 50.8%; this one
+read 216 (45 of them legible) and keeps 57.6%, reusing everything else from the record. 5,876 of
+the 7,203 words still one family short are attested by the Archive and Wikipedia, and 784 by the
+Bibles and Wikipedia. Swahili's missing register is modern prose from someone other than
+Wikipedia: more publishers, and a larger news corpus than Leipzig has.
 
-**Tiles.** Every tile spells some shipped word; V (809) and C (845) are the rarest.
+**Tiles.** Every tile spells some shipped word; V (821) and C (861) are the rarest.
 
 ## Rebuilding
 

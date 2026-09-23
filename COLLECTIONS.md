@@ -13,7 +13,7 @@ collection rather than reuse its record only has to put the file back where the 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
 | `wiki:sw` | 14,027,130 |  | — |
-| `ia` | 2,397,126 | Internet Archive Swahili books — literature, and the register a newspaper never reaches | [archive-sw](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Swahili%22+OR+language%3A%22swa%22+OR+language%3A%22swh%22%29) |
+| `ia` | 2,996,665 | Internet Archive Swahili books — literature, and the register a newspaper never reaches | [archive-sw](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Swahili%22+OR+language%3A%22swa%22+OR+language%3A%22swh%22%29) |
 | `ebible:swhulb` | 516,961 |  | — |
 | `ebible:swhonen` | 511,240 |  | — |
 | `web:co.ke` | 136,797 |  | fetched from `co.ke`, recorded in `searched.tsv` |
