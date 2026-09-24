@@ -5,7 +5,7 @@ The Swahili word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Swahili.
 
-**16,691 of 29,002 candidates proved, 57.6%**, across 9 independent
+**16,596 of 28,300 candidates proved, 58.6%**, across 9 independent
 families, 8 of which a stranger could check by fetching.
 
 ## What is in this repository
@@ -50,15 +50,16 @@ in the registry's list of public suffixes, so `mwananchi.co.tz` counts as a publ
 those suffixes would be pooled into one family. That errs the safe way, under-counting
 independence rather than inventing it, and it is why the harvest took one site from each.
 
-**English in the list.** Some candidates are plain English that the hunspell validator let
-through (FOR, SAID, WERE, YOU), and Swahili Wikipedia, publishers and the Archive all quote
-English. Measured: 274 of the 16,691 shipped words (1.6%) are also English candidates, and 82 are
-in the top 3,000 of the English list. A few of those are Swahili too (WAKE, LAKE, PALE); by eye
-about 60 are plain English (SAID, VIDEO, WORLD, MUSIC, SCHOOL). That is a fault in the candidate
-list, and small next to the list's size.
+**English in the list, and what came out.** Some candidates were plain English that the
+hunspell validator let through, and Swahili Wikipedia, publishers and the Archive all quote English,
+so the first build shipped SAID, YOU, SCHOOL, WORLD and MUSIC on real evidence. The candidate list
+was cut on 2026-09-23 (see `candidates/sw/PROVENANCE.md` and `english.tsv` in
+blinkered-attestation): 702 words went, 95 of which had been shipping, and the list now keeps 58.6%
+of a 28,300-word list. Swahili words en.wiktionary has not reached were kept: EWE ("O you!"), NIPA
+("give me"), PELE, KOA.
 
 **Where the drop list points.** The first build read 89 Archive texts and kept 50.8%; this one
-read 216 (45 of them legible) and keeps 57.6%, reusing everything else from the record. 5,876 of
+read 216 (45 of them legible) and kept 57.6%, reusing everything else from the record. 5,876 of
 the 7,203 words still one family short are attested by the Archive and Wikipedia, and 784 by the
 Bibles and Wikipedia. Swahili's missing register is modern prose from someone other than
 Wikipedia: more publishers, and a larger news corpus than Leipzig has.
